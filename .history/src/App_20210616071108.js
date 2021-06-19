@@ -2,7 +2,7 @@ import React, { Component, useState, useEffect } from 'react'
 import { BrowserRouter, Switch, Link, Route, Redirect, Router} from 'react-router-dom'
 import Login from './Login'
 import Homepage from './Homepage'
-
+import './App.css';
 import fire from './fire'
 import GlobalProvider from './GlobalState'
 
