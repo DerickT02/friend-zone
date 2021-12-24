@@ -1,0 +1,29 @@
+.Nav {
+   background-color: darkslateblue;
+   width: 100%;
+   color: white;
+   position: fixed;
+   margin-bottom: 10px;
+   height: 5%;
+   display: flex;
+}
+
+.Nav h1 {
+   justify-content: flex-start;
+   font-size: 10vmin;
+}
+
+.Nav button {
+    margin-right: 10px;
+    margin-left: 1000px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    color: white;
+    background-color:#603bbb;
+
+
+}

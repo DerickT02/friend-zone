@@ -1,0 +1,33 @@
+.post {
+    border: 2px solid gray;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+
+.post .deleteButton {
+    margin-top: 10px;
+    margin-left: 500px;
+    padding: 10px;
+   
+}
+
+.createPost {
+    margin-top: 100px;
+    margin-right: 100px;
+    float: right;
+    position: fixed;
+}
+
+.createPost .toggleButton {
+    background-color: #603bbb;
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+}
+
+.postContainer {
+    margin-bottom: 100px;
+}

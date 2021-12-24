@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.login .loginContainer input {
+  border: 2px solid purple;
+  width: 25%;
+}
+
+
+.btnContainer {
+  margin-top: 100px;
+}
+
+
+.btnContainer button {
+  border: none;
+  border-radius: 20px;
+  outline: none;
+  width: 25%;
+  padding: 15px 0;
+  color: #fff;
+  font-size: 16px;
+  letter-spacing: 1px;
+  background: #603bbb;
+  cursor: pointer;
+}

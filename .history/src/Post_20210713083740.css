@@ -1,0 +1,21 @@
+.post {
+    border: 2px solid gray;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+
+.post .deleteButton {
+    margin-top: 10px;
+    margin-left: 500px;
+    padding: 10px;
+   
+}
+
+.createPost {
+    margin-top: 100px;
+    margin-left: 10px;
+    float: right;
+}

@@ -1,0 +1,14 @@
+.Nav {
+    width: 100%;
+    background-color: rgb(100, 89, 100);
+}
+
+.Nav h1 {
+    margin-left: 10px;
+    margin-top: 20px;
+    text-align: left;
+}
+
+.Nav button {
+    text-align: right;
+}
